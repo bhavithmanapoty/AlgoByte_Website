@@ -7,7 +7,13 @@ export function Features() {
   return (
     <section id="features" className="py-32 relative overflow-hidden">
       {/* Feature 1 */}
-      <div className="container mx-auto px-6 mb-32">
+      <motion.div 
+        initial={{ opacity: 0, y: 20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: "-100px" }}
+        transition={{ duration: 0.8 }}
+        className="container mx-auto px-6 mb-32"
+      >
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div className="order-2 lg:order-1 relative">
             <div className="absolute inset-0 bg-primary/20 blur-[100px] rounded-full" />
@@ -47,10 +53,16 @@ export function Features() {
             </p>
           </div>
         </div>
-      </div>
+      </motion.div>
 
       {/* Feature 2 */}
-      <div className="container mx-auto px-6">
+      <motion.div 
+        initial={{ opacity: 0, y: 20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: "-100px" }}
+        transition={{ duration: 0.8 }}
+        className="container mx-auto px-6"
+      >
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div className="space-y-6">
             <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-accent to-pink-600 flex items-center justify-center">
@@ -92,7 +104,7 @@ export function Features() {
             </div>
           </div>
         </div>
-      </div>
+      </motion.div>
     </section>
   )
 }

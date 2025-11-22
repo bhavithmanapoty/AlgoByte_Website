@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
-import { Play, Check, X, Heart, MessageCircle, Share2 } from "lucide-react"
+import { Play, Check, X, Heart, MessageCircle, Share2, User } from "lucide-react"
 
 export function Hero() {
   return (
@@ -57,12 +57,14 @@ export function Hero() {
           </div>
 
           <div className="pt-8 flex items-center gap-4 text-sm text-white/40">
-            <div className="flex -space-x-2">
+            <div className="flex -space-x-4">
               {[1, 2, 3, 4].map((i) => (
                 <div
                   key={i}
-                  className="w-8 h-8 rounded-full bg-gradient-to-br from-white/20 to-white/5 border border-white/10"
-                />
+                  className="w-10 h-10 rounded-full bg-gradient-to-br from-gray-800 to-black border border-white/10 flex items-center justify-center relative z-10"
+                >
+                    <User className="w-5 h-5 text-white/60" />
+                </div>
               ))}
             </div>
             <p>Joined by 10,000+ developers</p>
@@ -161,12 +163,12 @@ export function Hero() {
               </div>
 
               {/* Action Buttons */}
-              <div className="h-24 px-4 pb-6 flex gap-3 items-end z-20 bg-gradient-to-t from-black to-transparent">
-                <Button className="flex-1 bg-red-500/20 hover:bg-red-500/30 text-red-500 border border-red-500/50 rounded-xl h-14 font-bold text-lg">
-                  <X className="mr-2 w-5 h-5" /> BUG FOUND
+              <div className="h-24 px-2 pb-6 flex gap-2 items-end z-20 bg-gradient-to-t from-black to-transparent w-full">
+                <Button className="flex-1 bg-red-500/20 hover:bg-red-500/30 text-red-500 border border-red-500/50 rounded-xl h-12 font-bold text-sm px-1">
+                  <X className="mr-1 w-4 h-4" /> BUG FOUND
                 </Button>
-                <Button className="flex-1 bg-green-500/20 hover:bg-green-500/30 text-green-500 border border-green-500/50 rounded-xl h-14 font-bold text-lg">
-                  <Check className="mr-2 w-5 h-5" /> LOOKS GOOD
+                <Button className="flex-1 bg-green-500/20 hover:bg-green-500/30 text-green-500 border border-green-500/50 rounded-xl h-12 font-bold text-sm px-1">
+                  <Check className="mr-1 w-4 h-4" /> LOOKS GOOD
                 </Button>
               </div>
             </div>

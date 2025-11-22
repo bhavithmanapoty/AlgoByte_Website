@@ -1,12 +1,21 @@
+"use client"
+
 import { Button } from "@/components/ui/button"
 import { Check } from "lucide-react"
+import { motion } from "framer-motion"
 
 export function Pricing() {
   return (
     <section id="pricing" className="py-24 relative overflow-hidden">
       <div className="absolute inset-0 bg-primary/5 -skew-y-3 transform origin-left" />
 
-      <div className="container mx-auto px-6 relative z-10">
+      <motion.div 
+        initial={{ opacity: 0, y: 20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: "-100px" }}
+        transition={{ duration: 0.8 }}
+        className="container mx-auto px-6 relative z-10"
+      >
         <div className="text-center mb-16 space-y-4">
           <h2 className="text-4xl md:text-5xl font-bold text-white">Invest in Your Career</h2>
           <p className="text-white/60">Cheaper than one rejected interview.</p>
@@ -87,7 +96,7 @@ export function Pricing() {
             </Button>
           </div>
         </div>
-      </div>
+      </motion.div>
     </section>
   )
 }

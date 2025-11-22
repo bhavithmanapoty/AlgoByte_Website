@@ -1,3 +1,5 @@
+"use client"
+
 import { Button } from "@/components/ui/button"
 import { Code2 } from "lucide-react"
 import Link from "next/link"
@@ -17,21 +19,51 @@ export function Navbar() {
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
-          <Link href="#features" className="text-sm font-medium text-white/70 hover:text-white transition-colors">
+          <Link 
+            href="#features" 
+            className="text-sm font-medium text-white/70 hover:text-white transition-colors"
+            onClick={(e) => {
+              e.preventDefault();
+              document.querySelector("#features")?.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
             Features
           </Link>
-          <Link href="#how-it-works" className="text-sm font-medium text-white/70 hover:text-white transition-colors">
+          <Link 
+            href="#how-it-works" 
+            className="text-sm font-medium text-white/70 hover:text-white transition-colors"
+            onClick={(e) => {
+              e.preventDefault();
+              document.querySelector("#how-it-works")?.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
             How it Works
           </Link>
-          <Link href="#pricing" className="text-sm font-medium text-white/70 hover:text-white transition-colors">
+          <Link 
+            href="#pricing" 
+            className="text-sm font-medium text-white/70 hover:text-white transition-colors"
+            onClick={(e) => {
+              e.preventDefault();
+              document.querySelector("#pricing")?.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
             Pricing
           </Link>
-          <Link href="#reviews" className="text-sm font-medium text-white/70 hover:text-white transition-colors">
+          <Link 
+            href="#reviews" 
+            className="text-sm font-medium text-white/70 hover:text-white transition-colors"
+            onClick={(e) => {
+              e.preventDefault();
+              document.querySelector("#reviews")?.scrollIntoView({ behavior: "smooth" });
+            }}
+          >
             Reviews
           </Link>
         </div>
 
-        <Button className="bg-gradient-to-r from-primary to-neon-purple hover:opacity-90 text-background font-bold rounded-full px-6 shadow-[0_0_20px_rgba(0,240,255,0.3)] transition-all hover:shadow-[0_0_30px_rgba(0,240,255,0.5)] border-0">
+        <Button 
+          className="bg-gradient-to-r from-primary to-neon-purple hover:opacity-90 text-background font-bold rounded-full px-6 shadow-[0_0_20px_rgba(0,240,255,0.3)] transition-all border-0 opacity-50 cursor-not-allowed pointer-events-none"
+        >
           Download Beta
         </Button>
       </div>
