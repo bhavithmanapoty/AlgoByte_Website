@@ -20,7 +20,7 @@ export function Footer() {
             <span className="text-lg font-bold text-white">AlgoByte</span>
           </Link>
           <p className="text-white/40 text-sm">
-            Master algorithms one swipe at a time.
+            Master algorithms one byte at a time.
           </p>
         </div>
 

@@ -16,7 +16,7 @@ export function Pricing() {
       >
         <div className="text-center mb-16 space-y-4">
           <h2 className="text-4xl md:text-5xl font-bold text-white">Invest in Your Career</h2>
-          <p className="text-white/60">Cheaper than one rejected interview.</p>
+          <p className="text-white/60">Flexible pricing that grows with you.</p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
@@ -24,8 +24,8 @@ export function Pricing() {
           <div className="glass-card p-8 rounded-3xl flex flex-col border-white/5">
             <div className="mb-8">
               <h3 className="text-xl font-medium text-white/60 mb-2">The Lurker</h3>
-              <div className="text-5xl font-bold text-white mb-2">$0</div>
-              <p className="text-white/40">Forever free</p>
+              <div className="text-5xl font-bold text-white mb-2">$0<span className="text-2xl text-white/60 font-normal">/month</span></div>
+              <p className="text-white/40">Free forever</p>
             </div>
 
             <ul className="space-y-4 mb-8 flex-1">
@@ -58,8 +58,8 @@ export function Pricing() {
                 BEST VALUE
               </div>
               <h3 className="text-xl font-medium text-primary mb-2">Career Unlock</h3>
-              <div className="text-5xl font-bold text-white mb-2">$149</div>
-              <p className="text-white/40">One-time payment. Lifetime access.</p>
+              <div className="text-5xl font-bold text-white mb-2">$9.99<span className="text-2xl text-white/60 font-normal">/month</span></div>
+              <p className="text-white/40">Cancel anytime</p>
             </div>
 
             <ul className="space-y-4 mb-8 flex-1 relative">
@@ -90,7 +90,7 @@ export function Pricing() {
             </ul>
 
             <Button className="w-full h-12 rounded-xl bg-gradient-to-r from-primary to-accent hover:opacity-90 text-background font-bold shadow-lg shadow-primary/25 border-0">
-              Get Lifetime Access
+              Subscribe Now
             </Button>
           </div>
         </div>

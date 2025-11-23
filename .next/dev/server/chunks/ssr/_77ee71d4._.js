@@ -1001,8 +1001,7 @@ function SocialProof() {
         "Meta",
         "Amazon",
         "Netflix",
-        "Microsoft",
-        "Uber"
+        "Microsoft"
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "py-10 border-y border-white/5 bg-white/[0.02] backdrop-blur-sm overflow-hidden",
@@ -1039,14 +1038,14 @@ function SocialProof() {
                             className: "absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-r from-background to-transparent z-10"
                         }, void 0, false, {
                             fileName: "[project]/components/landing/social-proof.tsx",
-                            lineNumber: 22,
+                            lineNumber: 23,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-background to-transparent z-10"
                         }, void 0, false, {
                             fileName: "[project]/components/landing/social-proof.tsx",
-                            lineNumber: 23,
+                            lineNumber: 24,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1069,20 +1068,20 @@ function SocialProof() {
                                     className: "flex items-center gap-2 group cursor-pointer",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "relative w-8 h-8 md:w-10 md:h-10 grayscale opacity-50 group-hover:opacity-100 group-hover:grayscale-0 transition-all duration-500",
+                                            className: "relative w-8 h-8 md:w-10 md:h-10 opacity-50 group-hover:opacity-100 transition-all duration-500",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                src: "/placeholder-logo.svg",
+                                                src: `/${company}-logo.svg`,
                                                 alt: company,
                                                 fill: true,
                                                 className: "object-contain"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/landing/social-proof.tsx",
-                                                lineNumber: 33,
+                                                lineNumber: 38,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/social-proof.tsx",
-                                            lineNumber: 32,
+                                            lineNumber: 37,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1090,24 +1089,24 @@ function SocialProof() {
                                             children: company
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/social-proof.tsx",
-                                            lineNumber: 40,
+                                            lineNumber: 46,
                                             columnNumber: 17
                                         }, this)
                                     ]
-                                }, i, true, {
+                                }, `${company}-${i}`, true, {
                                     fileName: "[project]/components/landing/social-proof.tsx",
-                                    lineNumber: 31,
+                                    lineNumber: 36,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/components/landing/social-proof.tsx",
-                            lineNumber: 25,
+                            lineNumber: 26,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/landing/social-proof.tsx",
-                    lineNumber: 21,
+                    lineNumber: 22,
                     columnNumber: 9
                 }, this)
             ]
@@ -1293,7 +1292,7 @@ function Features() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-lg text-white/60 leading-relaxed",
-                                    children: "Traditional LeetCode is a chore. AlgoByte turns pattern recognition into muscle memory through rapid-fire, swipe-based micro-games. Solve Parsons problems by dragging code blocks into place."
+                                    children: "Traditional LeetCode is a chore. AlgoByte turns pattern recognition into muscle memory through rapid-fire, swipe-based micro-games."
                                 }, void 0, false, {
                                     fileName: "[project]/components/landing/features.tsx",
                                     lineNumber: 50,
@@ -1858,7 +1857,7 @@ function Pricing() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-white/60",
-                            children: "Cheaper than one rejected interview."
+                            children: "Flexible pricing that grows with you."
                         }, void 0, false, {
                             fileName: "[project]/components/landing/pricing.tsx",
                             lineNumber: 19,
@@ -1889,15 +1888,25 @@ function Pricing() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-5xl font-bold text-white mb-2",
-                                            children: "$0"
-                                        }, void 0, false, {
+                                            children: [
+                                                "$0",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "text-2xl text-white/60 font-normal",
+                                                    children: "/month"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/landing/pricing.tsx",
+                                                    lineNumber: 27,
+                                                    columnNumber: 69
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
                                             lineNumber: 27,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-white/40",
-                                            children: "Forever free"
+                                            children: "Free forever"
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/pricing.tsx",
                                             lineNumber: 28,
@@ -2022,15 +2031,25 @@ function Pricing() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "text-5xl font-bold text-white mb-2",
-                                            children: "$149"
-                                        }, void 0, false, {
+                                            children: [
+                                                "$9.99",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "text-2xl text-white/60 font-normal",
+                                                    children: "/month"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/landing/pricing.tsx",
+                                                    lineNumber: 61,
+                                                    columnNumber: 72
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
                                             lineNumber: 61,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-white/40",
-                                            children: "One-time payment. Lifetime access."
+                                            children: "Cancel anytime"
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/pricing.tsx",
                                             lineNumber: 62,
@@ -2149,7 +2168,7 @@ function Pricing() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
                                     className: "w-full h-12 rounded-xl bg-gradient-to-r from-primary to-accent hover:opacity-90 text-background font-bold shadow-lg shadow-primary/25 border-0",
-                                    children: "Get Lifetime Access"
+                                    children: "Subscribe Now"
                                 }, void 0, false, {
                                     fileName: "[project]/components/landing/pricing.tsx",
                                     lineNumber: 92,
@@ -2250,7 +2269,7 @@ function Footer() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-white/40 text-sm",
-                            children: "Master algorithms one swipe at a time."
+                            children: "Master algorithms one byte at a time."
                         }, void 0, false, {
                             fileName: "[project]/components/landing/footer.tsx",
                             lineNumber: 22,

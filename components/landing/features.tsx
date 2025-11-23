@@ -49,7 +49,7 @@ export function Features() {
             </h2>
             <p className="text-lg text-white/60 leading-relaxed">
               Traditional LeetCode is a chore. AlgoByte turns pattern recognition into muscle memory through rapid-fire,
-              swipe-based micro-games. Solve Parsons problems by dragging code blocks into place.
+              swipe-based micro-games.
             </p>
           </div>
         </div>
