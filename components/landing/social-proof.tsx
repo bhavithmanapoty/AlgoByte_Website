@@ -36,7 +36,7 @@ export function SocialProof() {
               <div key={`${company}-${i}`} className="flex items-center gap-2 group cursor-pointer">
                 <div className="relative w-8 h-8 md:w-10 md:h-10 opacity-50 group-hover:opacity-100 transition-all duration-500">
                   <Image
-                    src={`/${company}-logo.svg`}
+                    src={`/${company.toLowerCase()}-logo.svg`}
                     alt={company}
                     fill
                     className="object-contain"
