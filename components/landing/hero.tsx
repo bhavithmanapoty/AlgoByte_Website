@@ -2,7 +2,8 @@
 
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
-import { Play, Check, X, Heart, MessageCircle, Share2, User } from "lucide-react"
+import { Check, X, Heart, MessageCircle, Share2, User } from "lucide-react"
+import Link from "next/link"
 
 export function Hero() {
   return (
@@ -41,19 +42,14 @@ export function Hero() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 pt-4">
-            <Button
-              size="lg"
-              className="h-14 px-8 text-lg bg-gradient-to-r from-primary to-neon-blue text-background font-bold rounded-full shadow-[0_0_20px_rgba(0,240,255,0.3)] hover:shadow-[0_0_40px_rgba(0,240,255,0.5)] border-0 transition-all"
-            >
-              Start Playing Free
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="h-14 px-8 text-lg border-white/20 text-white hover:bg-white/10 hover:text-white rounded-full backdrop-blur-sm gap-2 bg-transparent"
-            >
-              <Play className="w-4 h-4 fill-white" /> Watch Trailer
-            </Button>
+            <Link href="https://algo-byte.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <Button
+                size="lg"
+                className="h-14 px-8 text-lg bg-gradient-to-r from-primary to-neon-blue text-background font-bold rounded-full shadow-[0_0_20px_rgba(0,240,255,0.3)] hover:shadow-[0_0_40px_rgba(0,240,255,0.5)] border-0 transition-all"
+              >
+                Start Playing Free
+              </Button>
+            </Link>
           </div>
 
           <div className="pt-8 flex items-center gap-4 text-sm text-white/40">

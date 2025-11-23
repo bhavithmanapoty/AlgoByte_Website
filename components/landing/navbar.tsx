@@ -61,11 +61,13 @@ export function Navbar() {
           </Link>
         </div>
 
-        <Button 
-          className="bg-gradient-to-r from-primary to-neon-purple hover:opacity-90 text-background font-bold rounded-full px-6 shadow-[0_0_20px_rgba(0,240,255,0.3)] transition-all border-0 opacity-50 cursor-not-allowed pointer-events-none"
-        >
-          Download Beta
-        </Button>
+        <Link href="https://algo-byte.vercel.app/" target="_blank" rel="noopener noreferrer">
+          <Button 
+            className="bg-gradient-to-r from-primary to-neon-purple hover:opacity-90 text-background font-bold rounded-full px-6 shadow-[0_0_20px_rgba(0,240,255,0.3)] transition-all hover:shadow-[0_0_30px_rgba(0,240,255,0.5)] border-0"
+          >
+            Play Now
+          </Button>
+        </Link>
       </div>
     </nav>
   )

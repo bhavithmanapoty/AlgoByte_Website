@@ -72,24 +72,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$vercel$2f$
 ;
 ;
 const metadata = {
-    title: 'v0 App',
-    description: 'Created with v0',
+    title: 'AlgoByte',
+    description: 'Master Data Structures & Algorithms in 30-second bites. Swipe through micro-challenges, spot bugs instantly, and build your streak.',
     generator: 'v0.app',
     icons: {
-        icon: [
-            {
-                url: '/icon-light-32x32.png',
-                media: '(prefers-color-scheme: light)'
-            },
-            {
-                url: '/icon-dark-32x32.png',
-                media: '(prefers-color-scheme: dark)'
-            },
-            {
-                url: '/icon.svg',
-                type: 'image/svg+xml'
-            }
-        ],
+        icon: '/code-xml.svg',
         apple: '/apple-icon.png'
     }
 };
@@ -102,18 +89,18 @@ function RootLayout({ children }) {
                 children,
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$vercel$2f$analytics$2f$dist$2f$next$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Analytics"], {}, void 0, false, {
                     fileName: "[project]/app/layout.tsx",
-                    lineNumber: 41,
+                    lineNumber: 28,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/app/layout.tsx",
-            lineNumber: 39,
+            lineNumber: 26,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/layout.tsx",
-        lineNumber: 38,
+        lineNumber: 25,
         columnNumber: 5
     }, this);
 }

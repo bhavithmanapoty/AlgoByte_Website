@@ -205,9 +205,18 @@ function Navbar() {
                     lineNumber: 21,
                     columnNumber: 9
                 }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
-                    className: "bg-gradient-to-r from-primary to-neon-purple hover:opacity-90 text-background font-bold rounded-full px-6 shadow-[0_0_20px_rgba(0,240,255,0.3)] transition-all border-0 opacity-50 cursor-not-allowed pointer-events-none",
-                    children: "Download Beta"
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                    href: "https://algo-byte.vercel.app/",
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
+                        className: "bg-gradient-to-r from-primary to-neon-purple hover:opacity-90 text-background font-bold rounded-full px-6 shadow-[0_0_20px_rgba(0,240,255,0.3)] transition-all hover:shadow-[0_0_30px_rgba(0,240,255,0.5)] border-0",
+                        children: "Play Now"
+                    }, void 0, false, {
+                        fileName: "[project]/components/landing/navbar.tsx",
+                        lineNumber: 65,
+                        columnNumber: 11
+                    }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/landing/navbar.tsx",
                     lineNumber: 64,
@@ -236,14 +245,15 @@ __turbopack_context__.s([
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/ui/button.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/framer-motion/dist/es/render/components/motion/proxy.mjs [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/play.js [app-ssr] (ecmascript) <export default as Play>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Check$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/check.js [app-ssr] (ecmascript) <export default as Check>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/x.js [app-ssr] (ecmascript) <export default as X>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/heart.js [app-ssr] (ecmascript) <export default as Heart>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$circle$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageCircle$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/message-circle.js [app-ssr] (ecmascript) <export default as MessageCircle>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$share$2d$2$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Share2$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/share-2.js [app-ssr] (ecmascript) <export default as Share2>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$user$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__User$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/user.js [app-ssr] (ecmascript) <export default as User>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-ssr] (ecmascript)");
 "use client";
+;
 ;
 ;
 ;
@@ -259,27 +269,27 @@ function Hero() {
                         className: "absolute -top-[20%] -left-[10%] w-[50%] h-[50%] bg-primary/20 rounded-full blur-[120px]"
                     }, void 0, false, {
                         fileName: "[project]/components/landing/hero.tsx",
-                        lineNumber: 12,
+                        lineNumber: 13,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "absolute top-[40%] -right-[10%] w-[40%] h-[40%] bg-accent/20 rounded-full blur-[120px]"
                     }, void 0, false, {
                         fileName: "[project]/components/landing/hero.tsx",
-                        lineNumber: 13,
+                        lineNumber: 14,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "absolute -bottom-[10%] left-[20%] w-[30%] h-[30%] bg-blue-500/20 rounded-full blur-[100px]"
                     }, void 0, false, {
                         fileName: "[project]/components/landing/hero.tsx",
-                        lineNumber: 14,
+                        lineNumber: 15,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/landing/hero.tsx",
-                lineNumber: 11,
+                lineNumber: 12,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -309,27 +319,27 @@ function Hero() {
                                                 className: "animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/landing/hero.tsx",
-                                                lineNumber: 27,
+                                                lineNumber: 28,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "relative inline-flex rounded-full h-2 w-2 bg-primary"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/landing/hero.tsx",
-                                                lineNumber: 28,
+                                                lineNumber: 29,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/landing/hero.tsx",
-                                        lineNumber: 26,
+                                        lineNumber: 27,
                                         columnNumber: 13
                                     }, this),
                                     "Public Beta Live"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 25,
+                                lineNumber: 26,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -342,13 +352,13 @@ function Hero() {
                                         children: "FAANG Job."
                                     }, void 0, false, {
                                         fileName: "[project]/components/landing/hero.tsx",
-                                        lineNumber: 35,
+                                        lineNumber: 36,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 33,
+                                lineNumber: 34,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -356,44 +366,32 @@ function Hero() {
                                 children: "Master Data Structures & Algorithms in 30-second bites. Swipe through micro-challenges, spot bugs instantly, and build your streak."
                             }, void 0, false, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 38,
+                                lineNumber: 39,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "flex flex-col sm:flex-row gap-4 pt-4",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                    href: "https://algo-byte.vercel.app/",
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
                                         size: "lg",
                                         className: "h-14 px-8 text-lg bg-gradient-to-r from-primary to-neon-blue text-background font-bold rounded-full shadow-[0_0_20px_rgba(0,240,255,0.3)] hover:shadow-[0_0_40px_rgba(0,240,255,0.5)] border-0 transition-all",
                                         children: "Start Playing Free"
                                     }, void 0, false, {
                                         fileName: "[project]/components/landing/hero.tsx",
-                                        lineNumber: 44,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
-                                        size: "lg",
-                                        variant: "outline",
-                                        className: "h-14 px-8 text-lg border-white/20 text-white hover:bg-white/10 hover:text-white rounded-full backdrop-blur-sm gap-2 bg-transparent",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__["Play"], {
-                                                className: "w-4 h-4 fill-white"
-                                            }, void 0, false, {
-                                                fileName: "[project]/components/landing/hero.tsx",
-                                                lineNumber: 55,
-                                                columnNumber: 15
-                                            }, this),
-                                            " Watch Trailer"
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/components/landing/hero.tsx",
-                                        lineNumber: 50,
-                                        columnNumber: 13
+                                        lineNumber: 46,
+                                        columnNumber: 15
                                     }, this)
-                                ]
-                            }, void 0, true, {
+                                }, void 0, false, {
+                                    fileName: "[project]/components/landing/hero.tsx",
+                                    lineNumber: 45,
+                                    columnNumber: 13
+                                }, this)
+                            }, void 0, false, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 43,
+                                lineNumber: 44,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -412,36 +410,36 @@ function Hero() {
                                                     className: "w-5 h-5 text-white/60"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 66,
+                                                    lineNumber: 62,
                                                     columnNumber: 21
                                                 }, this)
                                             }, i, false, {
                                                 fileName: "[project]/components/landing/hero.tsx",
-                                                lineNumber: 62,
+                                                lineNumber: 58,
                                                 columnNumber: 17
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/components/landing/hero.tsx",
-                                        lineNumber: 60,
+                                        lineNumber: 56,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: "Joined by 10,000+ developers"
                                     }, void 0, false, {
                                         fileName: "[project]/components/landing/hero.tsx",
-                                        lineNumber: 70,
+                                        lineNumber: 66,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 59,
+                                lineNumber: 55,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/landing/hero.tsx",
-                        lineNumber: 19,
+                        lineNumber: 20,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -471,7 +469,7 @@ function Hero() {
                                                     children: "9:41"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 86,
+                                                    lineNumber: 82,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -481,26 +479,26 @@ function Hero() {
                                                             className: "w-4 h-4 rounded-full bg-white/20"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 88,
+                                                            lineNumber: 84,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "w-4 h-4 rounded-full bg-white/20"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 89,
+                                                            lineNumber: 85,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 87,
+                                                    lineNumber: 83,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/hero.tsx",
-                                            lineNumber: 85,
+                                            lineNumber: 81,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -519,12 +517,12 @@ function Hero() {
                                                 className: "absolute left-0 top-0 h-full bg-primary"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/landing/hero.tsx",
-                                                lineNumber: 95,
+                                                lineNumber: 91,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/hero.tsx",
-                                            lineNumber: 94,
+                                            lineNumber: 90,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -534,7 +532,7 @@ function Hero() {
                                                     className: "absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/80 z-10 pointer-events-none"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 105,
+                                                    lineNumber: 101,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -542,7 +540,7 @@ function Hero() {
                                                     children: "// Find the bug in this binary search implementation"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 106,
+                                                    lineNumber: 102,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -553,7 +551,7 @@ function Hero() {
                                                             children: "function"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 110,
+                                                            lineNumber: 106,
                                                             columnNumber: 19
                                                         }, this),
                                                         " ",
@@ -562,7 +560,7 @@ function Hero() {
                                                             children: "binarySearch"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 110,
+                                                            lineNumber: 106,
                                                             columnNumber: 68
                                                         }, this),
                                                         "(arr, target) ",
@@ -572,7 +570,7 @@ function Hero() {
                                                             children: "let left = 0;"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 112,
+                                                            lineNumber: 108,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -580,14 +578,14 @@ function Hero() {
                                                             children: "let right = arr.length - 1;"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 113,
+                                                            lineNumber: 109,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "pl-4 h-4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 114,
+                                                            lineNumber: 110,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -598,7 +596,7 @@ function Hero() {
                                                                     children: "while"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                                    lineNumber: 116,
+                                                                    lineNumber: 112,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 " (left <= right) ",
@@ -606,7 +604,7 @@ function Hero() {
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 115,
+                                                            lineNumber: 111,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -614,14 +612,42 @@ function Hero() {
                                                             children: "let mid = Math.floor((left + right) / 2);"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 118,
+                                                            lineNumber: 114,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "pl-8 h-4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 119,
+                                                            lineNumber: 115,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "pl-8",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                    className: "text-secondary",
+                                                                    children: "if"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/components/landing/hero.tsx",
+                                                                    lineNumber: 117,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                " (arr[mid] === target)",
+                                                                " ",
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                    className: "text-secondary",
+                                                                    children: "return"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/components/landing/hero.tsx",
+                                                                    lineNumber: 118,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                " mid;"
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/components/landing/hero.tsx",
+                                                            lineNumber: 116,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -635,34 +661,6 @@ function Hero() {
                                                                     lineNumber: 121,
                                                                     columnNumber: 21
                                                                 }, this),
-                                                                " (arr[mid] === target)",
-                                                                " ",
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-secondary",
-                                                                    children: "return"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/components/landing/hero.tsx",
-                                                                    lineNumber: 122,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                " mid;"
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 120,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "pl-8",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-secondary",
-                                                                    children: "if"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/components/landing/hero.tsx",
-                                                                    lineNumber: 125,
-                                                                    columnNumber: 21
-                                                                }, this),
                                                                 " (arr[mid] < target) ",
                                                                 "{",
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -674,19 +672,19 @@ function Hero() {
                                                                             children: "// BUG HERE"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                                            lineNumber: 127,
+                                                                            lineNumber: 123,
                                                                             columnNumber: 40
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                                    lineNumber: 126,
+                                                                    lineNumber: 122,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 124,
+                                                            lineNumber: 120,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -699,7 +697,7 @@ function Hero() {
                                                                     children: "else"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                                    lineNumber: 131,
+                                                                    lineNumber: 127,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 " ",
@@ -709,13 +707,13 @@ function Hero() {
                                                                     children: "right = mid - 1;"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                                    lineNumber: 132,
+                                                                    lineNumber: 128,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 130,
+                                                            lineNumber: 126,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -723,7 +721,7 @@ function Hero() {
                                                             children: "}"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 134,
+                                                            lineNumber: 130,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -731,7 +729,7 @@ function Hero() {
                                                             children: "}"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 135,
+                                                            lineNumber: 131,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -742,33 +740,33 @@ function Hero() {
                                                                     children: "return"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                                    lineNumber: 137,
+                                                                    lineNumber: 133,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 " -1;"
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 136,
+                                                            lineNumber: 132,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             children: "}"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 139,
+                                                            lineNumber: 135,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 109,
+                                                    lineNumber: 105,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/hero.tsx",
-                                            lineNumber: 104,
+                                            lineNumber: 100,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -783,12 +781,12 @@ function Hero() {
                                                                 className: "w-5 h-5 text-white fill-white/20"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/landing/hero.tsx",
-                                                                lineNumber: 147,
+                                                                lineNumber: 143,
                                                                 columnNumber: 21
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 146,
+                                                            lineNumber: 142,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -796,13 +794,13 @@ function Hero() {
                                                             children: "12k"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 149,
+                                                            lineNumber: 145,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 145,
+                                                    lineNumber: 141,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -814,12 +812,12 @@ function Hero() {
                                                                 className: "w-5 h-5 text-white"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/landing/hero.tsx",
-                                                                lineNumber: 153,
+                                                                lineNumber: 149,
                                                                 columnNumber: 21
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 152,
+                                                            lineNumber: 148,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -827,13 +825,13 @@ function Hero() {
                                                             children: "842"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 155,
+                                                            lineNumber: 151,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 151,
+                                                    lineNumber: 147,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -845,12 +843,12 @@ function Hero() {
                                                                 className: "w-5 h-5 text-white"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/landing/hero.tsx",
-                                                                lineNumber: 159,
+                                                                lineNumber: 155,
                                                                 columnNumber: 21
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 158,
+                                                            lineNumber: 154,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -858,19 +856,19 @@ function Hero() {
                                                             children: "Share"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 161,
+                                                            lineNumber: 157,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 157,
+                                                    lineNumber: 153,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/hero.tsx",
-                                            lineNumber: 144,
+                                            lineNumber: 140,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -883,14 +881,14 @@ function Hero() {
                                                             className: "mr-1 w-4 h-4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 168,
+                                                            lineNumber: 164,
                                                             columnNumber: 19
                                                         }, this),
                                                         " BUG FOUND"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 167,
+                                                    lineNumber: 163,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -900,31 +898,31 @@ function Hero() {
                                                             className: "mr-1 w-4 h-4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/landing/hero.tsx",
-                                                            lineNumber: 171,
+                                                            lineNumber: 167,
                                                             columnNumber: 19
                                                         }, this),
                                                         " LOOKS GOOD"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/landing/hero.tsx",
-                                                    lineNumber: 170,
+                                                    lineNumber: 166,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/hero.tsx",
-                                            lineNumber: 166,
+                                            lineNumber: 162,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/landing/hero.tsx",
-                                    lineNumber: 83,
+                                    lineNumber: 79,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 81,
+                                lineNumber: 77,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -939,7 +937,7 @@ function Hero() {
                                 className: "absolute top-20 right-0 w-32 h-32 rounded-full border border-primary/20 bg-primary/5 backdrop-blur-sm z-0"
                             }, void 0, false, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 178,
+                                lineNumber: 174,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -958,25 +956,25 @@ function Hero() {
                                 className: "absolute bottom-40 -left-10 w-24 h-24 rounded-full border border-accent/20 bg-accent/5 backdrop-blur-sm z-30"
                             }, void 0, false, {
                                 fileName: "[project]/components/landing/hero.tsx",
-                                lineNumber: 183,
+                                lineNumber: 179,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/landing/hero.tsx",
-                        lineNumber: 75,
+                        lineNumber: 71,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/landing/hero.tsx",
-                lineNumber: 17,
+                lineNumber: 18,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/landing/hero.tsx",
-        lineNumber: 9,
+        lineNumber: 10,
         columnNumber: 5
     }, this);
 }
@@ -1817,7 +1815,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/ui/button.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Check$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/check.js [app-ssr] (ecmascript) <export default as Check>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/framer-motion/dist/es/render/components/motion/proxy.mjs [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-ssr] (ecmascript)");
 "use client";
+;
 ;
 ;
 ;
@@ -1852,7 +1852,7 @@ function Pricing() {
                             children: "Invest in Your Career"
                         }, void 0, false, {
                             fileName: "[project]/components/landing/pricing.tsx",
-                            lineNumber: 18,
+                            lineNumber: 19,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1860,13 +1860,13 @@ function Pricing() {
                             children: "Flexible pricing that grows with you."
                         }, void 0, false, {
                             fileName: "[project]/components/landing/pricing.tsx",
-                            lineNumber: 19,
+                            lineNumber: 20,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/landing/pricing.tsx",
-                    lineNumber: 17,
+                    lineNumber: 18,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1883,7 +1883,7 @@ function Pricing() {
                                             children: "The Lurker"
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 26,
+                                            lineNumber: 27,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1895,13 +1895,13 @@ function Pricing() {
                                                     children: "/month"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 27,
+                                                    lineNumber: 28,
                                                     columnNumber: 69
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 27,
+                                            lineNumber: 28,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1909,13 +1909,13 @@ function Pricing() {
                                             children: "Free forever"
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 28,
+                                            lineNumber: 29,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 25,
+                                    lineNumber: 26,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1928,14 +1928,14 @@ function Pricing() {
                                                     className: "w-5 h-5 text-white/40"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 33,
+                                                    lineNumber: 34,
                                                     columnNumber: 17
                                                 }, this),
                                                 " 50 swipes per day"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 32,
+                                            lineNumber: 33,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1945,14 +1945,14 @@ function Pricing() {
                                                     className: "w-5 h-5 text-white/40"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 36,
+                                                    lineNumber: 37,
                                                     columnNumber: 17
                                                 }, this),
                                                 " Basic Data Structures"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 35,
+                                            lineNumber: 36,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1962,35 +1962,44 @@ function Pricing() {
                                                     className: "w-5 h-5 text-white/40"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 39,
+                                                    lineNumber: 40,
                                                     columnNumber: 17
                                                 }, this),
                                                 " Community Solutions"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 38,
+                                            lineNumber: 39,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 31,
+                                    lineNumber: 32,
                                     columnNumber: 13
                                 }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
-                                    variant: "outline",
-                                    className: "w-full h-12 rounded-xl border-white/10 hover:bg-white/5 text-white bg-transparent",
-                                    children: "Start Free"
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                    href: "https://algo-byte.vercel.app/",
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
+                                        variant: "outline",
+                                        className: "w-full h-12 rounded-xl border-white/10 hover:bg-white/5 text-white bg-transparent",
+                                        children: "Start Free"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/landing/pricing.tsx",
+                                        lineNumber: 45,
+                                        columnNumber: 15
+                                    }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 43,
+                                    lineNumber: 44,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/landing/pricing.tsx",
-                            lineNumber: 24,
+                            lineNumber: 25,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2000,14 +2009,14 @@ function Pricing() {
                                     className: "absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary to-accent"
                                 }, void 0, false, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 53,
+                                    lineNumber: 56,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "absolute -top-20 -right-20 w-40 h-40 bg-primary/20 blur-[50px] rounded-full"
                                 }, void 0, false, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 54,
+                                    lineNumber: 57,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2018,7 +2027,7 @@ function Pricing() {
                                             children: "BEST VALUE"
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 57,
+                                            lineNumber: 60,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -2026,7 +2035,7 @@ function Pricing() {
                                             children: "Career Unlock"
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 60,
+                                            lineNumber: 63,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2038,13 +2047,13 @@ function Pricing() {
                                                     children: "/month"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 61,
+                                                    lineNumber: 64,
                                                     columnNumber: 72
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 61,
+                                            lineNumber: 64,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2052,13 +2061,13 @@ function Pricing() {
                                             children: "Cancel anytime"
                                         }, void 0, false, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 62,
+                                            lineNumber: 65,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 56,
+                                    lineNumber: 59,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -2073,19 +2082,19 @@ function Pricing() {
                                                         className: "w-3 h-3 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/landing/pricing.tsx",
-                                                        lineNumber: 68,
+                                                        lineNumber: 71,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 67,
+                                                    lineNumber: 70,
                                                     columnNumber: 17
                                                 }, this),
                                                 "Unlimited Swipes"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 66,
+                                            lineNumber: 69,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2097,19 +2106,19 @@ function Pricing() {
                                                         className: "w-3 h-3 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/landing/pricing.tsx",
-                                                        lineNumber: 74,
+                                                        lineNumber: 77,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 73,
+                                                    lineNumber: 76,
                                                     columnNumber: 17
                                                 }, this),
                                                 "Advanced Topics (DP, Graphs)"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 72,
+                                            lineNumber: 75,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2121,19 +2130,19 @@ function Pricing() {
                                                         className: "w-3 h-3 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/landing/pricing.tsx",
-                                                        lineNumber: 80,
+                                                        lineNumber: 83,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 79,
+                                                    lineNumber: 82,
                                                     columnNumber: 17
                                                 }, this),
                                                 "Company-Specific Tracks"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 78,
+                                            lineNumber: 81,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2145,56 +2154,65 @@ function Pricing() {
                                                         className: "w-3 h-3 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/landing/pricing.tsx",
-                                                        lineNumber: 86,
+                                                        lineNumber: 89,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/landing/pricing.tsx",
-                                                    lineNumber: 85,
+                                                    lineNumber: 88,
                                                     columnNumber: 17
                                                 }, this),
                                                 "Offline Mode"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/landing/pricing.tsx",
-                                            lineNumber: 84,
+                                            lineNumber: 87,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 65,
+                                    lineNumber: 68,
                                     columnNumber: 13
                                 }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
-                                    className: "w-full h-12 rounded-xl bg-gradient-to-r from-primary to-accent hover:opacity-90 text-background font-bold shadow-lg shadow-primary/25 border-0",
-                                    children: "Subscribe Now"
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                    href: "https://algo-byte.vercel.app/",
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
+                                        className: "w-full h-12 rounded-xl bg-gradient-to-r from-primary to-accent hover:opacity-90 text-background font-bold shadow-lg shadow-primary/25 border-0",
+                                        children: "Play Trial & Subscribe"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/landing/pricing.tsx",
+                                        lineNumber: 96,
+                                        columnNumber: 15
+                                    }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/landing/pricing.tsx",
-                                    lineNumber: 92,
+                                    lineNumber: 95,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/landing/pricing.tsx",
-                            lineNumber: 52,
+                            lineNumber: 55,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/landing/pricing.tsx",
-                    lineNumber: 22,
+                    lineNumber: 23,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/landing/pricing.tsx",
-            lineNumber: 10,
+            lineNumber: 11,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/landing/pricing.tsx",
-        lineNumber: 9,
+        lineNumber: 10,
         columnNumber: 5
     }, this);
 }

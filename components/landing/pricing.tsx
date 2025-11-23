@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { Check } from "lucide-react"
 import { motion } from "framer-motion"
+import Link from "next/link"
 
 export function Pricing() {
   return (
@@ -40,12 +41,14 @@ export function Pricing() {
               </li>
             </ul>
 
-            <Button
-              variant="outline"
-              className="w-full h-12 rounded-xl border-white/10 hover:bg-white/5 text-white bg-transparent"
-            >
-              Start Free
-            </Button>
+            <Link href="https://algo-byte.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <Button
+                variant="outline"
+                className="w-full h-12 rounded-xl border-white/10 hover:bg-white/5 text-white bg-transparent"
+              >
+                Start Free
+              </Button>
+            </Link>
           </div>
 
           {/* Premium Tier */}
@@ -89,9 +92,11 @@ export function Pricing() {
               </li>
             </ul>
 
-            <Button className="w-full h-12 rounded-xl bg-gradient-to-r from-primary to-accent hover:opacity-90 text-background font-bold shadow-lg shadow-primary/25 border-0">
-              Subscribe Now
-            </Button>
+            <Link href="https://algo-byte.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <Button className="w-full h-12 rounded-xl bg-gradient-to-r from-primary to-accent hover:opacity-90 text-background font-bold shadow-lg shadow-primary/25 border-0">
+                Play Trial & Subscribe
+              </Button>
+            </Link>
           </div>
         </div>
       </motion.div>
