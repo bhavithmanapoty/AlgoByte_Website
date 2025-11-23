@@ -7,8 +7,6 @@ import { motion } from "framer-motion"
 export function Pricing() {
   return (
     <section id="pricing" className="py-24 relative overflow-hidden">
-      <div className="absolute inset-0 bg-primary/5 -skew-y-3 transform origin-left" />
-
       <motion.div 
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
