@@ -39,7 +39,7 @@ export function Navbar() {
           >
             How it Works
           </Link> */}
-          <Link 
+          {/* <Link 
             href="#pricing" 
             className="text-sm font-medium text-white/70 hover:text-white transition-colors"
             onClick={(e) => {
@@ -48,7 +48,7 @@ export function Navbar() {
             }}
           >
             Pricing
-          </Link>
+          </Link> */}
           {/* <Link 
             href="#reviews" 
             className="text-sm font-medium text-white/70 hover:text-white transition-colors"

@@ -14,7 +14,7 @@ export default function Home() {
       <SocialProof />
       <Features />
       {/* <Testimonials /> */}
-      <Pricing />
+      {/* <Pricing /> */}
       <Footer />
     </main>
   )
