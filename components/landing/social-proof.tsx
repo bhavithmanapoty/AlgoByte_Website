@@ -16,7 +16,7 @@ export function SocialProof() {
         className="container mx-auto px-6"
       >
         <p className="text-center text-sm font-medium text-white/40 mb-8 uppercase tracking-widest">
-          Our users are landing offers at
+          Land offers at your dream companies
         </p>
 
         <div className="relative flex overflow-hidden max-w-5xl mx-auto">

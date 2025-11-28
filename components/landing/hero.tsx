@@ -51,20 +51,6 @@ export function Hero() {
               </Button>
             </Link>
           </div>
-
-          <div className="pt-8 flex items-center gap-4 text-sm text-white/40">
-            <div className="flex -space-x-4">
-              {[1, 2, 3, 4].map((i) => (
-                <div
-                  key={i}
-                  className="w-10 h-10 rounded-full bg-gradient-to-br from-gray-800 to-black border border-white/10 flex items-center justify-center relative z-10"
-                >
-                    <User className="w-5 h-5 text-white/60" />
-                </div>
-              ))}
-            </div>
-            <p>Joined by 10,000+ developers</p>
-          </div>
         </motion.div>
 
         {/* 3D Phone Visual */}
